@@ -1,0 +1,14 @@
+.Toastify__toast {
+  color: #ef4444;
+  background-color: #f5b9b9;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.Toastify__icon {
+  color: #ef4444;
+}
+
+/* Override the notification line color */
+.Toastify__progress-bar {
+  background: #ef4444;
+}
